@@ -35,7 +35,7 @@ def roll_dice(num_rolls, dice=six_sided):
     return total
 
 
-def free_bacon(score):
+def free_bacon(score): #lol
     """Return the points scored from rolling 0 dice (Free Bacon).
 
     score:  The opponent's current score.
